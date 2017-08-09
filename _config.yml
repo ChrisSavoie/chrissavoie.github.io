@@ -3,7 +3,7 @@ title: Chris Savoie
 subtitle: User Experience Designer 
 email: chrissavoie@gmail.com
 description: For 7 years I’ve been growing a suite of skills designed to excel at understanding and influencing consumer behavior.<br /><br />Through effective copywriting, creating emotion, amplifying problems, and offering solutions I specialize in persuading people to take action, subscribe, download, install, share, and purchase.<br /><br />These are my works.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chrissavoie.github.io" # the base hostname & protocol for your site
 author: Chris Savoie
 street_address: 38 Baylor Avenue
