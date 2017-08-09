@@ -1,0 +1,36 @@
+# site settings
+title: Chris Savoie
+subtitle: User Experience Designer 
+email: chrissavoie@gmail.com
+description: For 7 years I’ve been growing a suite of skills designed to excel at understanding and influencing consumer behavior.<br /><br />Through effective copywriting, creating emotion, amplifying problems, and offering solutions I specialize in persuading people to take action, subscribe, download, install, share, and purchase.<br /><br />These are my works.
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://chrissavoie.github.io" # the base hostname & protocol for your site
+author: Chris Savoie
+street_address: 38 Baylor Avenue
+city: Winnipeg
+state: MB
+zip_code: R3T 3K1
+country: Canada
+phone: (204) 960-6895
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/ChrisSavoie
+gitlab_url: 
+googleplus_url:
+instagram_url: https://www.instagram.com/chris.savoie/
+linkedin_url: https://www.linkedin.com/in/chrissavoie
+pinterest_url: 
+slack_url: 
+twitter_url: https://twitter.com/chrissavoie
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
